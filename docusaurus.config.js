@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Vue Learn',
-  tagline: 'Une doc simple et instintive',
+  tagline: 'by Augustin Briolon',
   url: 'https://vue.learn.august1.dev/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
